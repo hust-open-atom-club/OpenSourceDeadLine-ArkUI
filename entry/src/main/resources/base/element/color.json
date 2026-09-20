@@ -3,6 +3,110 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "primary_color_dark",
+      "value": "#3A8FFF"
+    },
+    {
+      "name": "secondary_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "success_color",
+      "value": "#00C853"
+    },
+    {
+      "name": "warning_color",
+      "value": "#FF9800"
+    },
+    {
+      "name": "error_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "text_primary",
+      "value": "#182431"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#99182431"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#66182431"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#33182431"
+    },
+    {
+      "name": "background_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "background_tertiary",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "divider_color",
+      "value": "#33182431"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_shadow",
+      "value": "#1A000000"
+    },
+    {
+      "name": "status_ongoing",
+      "value": "#007DFF"
+    },
+    {
+      "name": "status_upcoming",
+      "value": "#FF9800"
+    },
+    {
+      "name": "status_expired",
+      "value": "#99182431"
+    },
+    {
+      "name": "category_hackathon",
+      "value": "#E84026"
+    },
+    {
+      "name": "category_conference",
+      "value": "#007DFF"
+    },
+    {
+      "name": "category_open_source",
+      "value": "#00C853"
+    },
+    {
+      "name": "category_scholarship",
+      "value": "#9C27B0"
+    },
+    {
+      "name": "category_other",
+      "value": "#607D8B"
+    },
+    {
+      "name": "favorite_active",
+      "value": "#E84026"
+    },
+    {
+      "name": "favorite_inactive",
+      "value": "#99182431"
     }
   ]
 }

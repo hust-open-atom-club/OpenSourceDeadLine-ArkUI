@@ -13,26 +13,22 @@
  * limitations under the License.
  */
 
-@Entry
-@Component
-struct Index {
-  @State message: string = 'Hello World';
+import { router } from '@kit.ArkUI';
 
-  build() {
-    RelativeContainer() {
-      Text(this.message)
-        .id('HelloWorld')
-        .fontSize($r('app.float.page_text_font_size'))
-        .fontWeight(FontWeight.Bold)
-        .alignRules({
-          center: { anchor: '__container__', align: VerticalAlign.Center },
-          middle: { anchor: '__container__', align: HorizontalAlign.Center }
-        })
-        .onClick(() => {
-          this.message = 'Welcome';
-        })
-    }
-    .height('100%')
-    .width('100%')
-  }
+/**
+ * 路由参数接口定义
+ */
+
+/**
+ * 详情页参数
+ */
+export interface DetailParams {
+  eventId: string;
+}
+
+/**
+ * 主页参数
+ */
+export interface MainParams {
+  tab?: number;
 }

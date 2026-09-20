@@ -1,3 +1,4 @@
+// @ts-nocheck – HarmonyOS template file, only used when copied into a DevEco project
 import { hapTasks } from '@ohos/hvigor-ohos-plugin';
 
 export default {

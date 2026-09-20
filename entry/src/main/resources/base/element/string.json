@@ -2,15 +2,151 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "开源事件截止日期展示应用"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "OSEDDL元服务入口"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "OSEDDL"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于获取开源事件数据"
+    },
+    {
+      "name": "app_title",
+      "value": "开源事件日历"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索事件..."
+    },
+    {
+      "name": "filter_all",
+      "value": "全部"
+    },
+    {
+      "name": "filter_category",
+      "value": "分类"
+    },
+    {
+      "name": "filter_status",
+      "value": "状态"
+    },
+    {
+      "name": "category_hackathon",
+      "value": "黑客松"
+    },
+    {
+      "name": "category_conference",
+      "value": "技术会议"
+    },
+    {
+      "name": "category_open_source",
+      "value": "开源项目"
+    },
+    {
+      "name": "category_scholarship",
+      "value": "奖学金申请"
+    },
+    {
+      "name": "category_other",
+      "value": "其他"
+    },
+    {
+      "name": "status_ongoing",
+      "value": "进行中"
+    },
+    {
+      "name": "status_upcoming",
+      "value": "即将截止"
+    },
+    {
+      "name": "status_expired",
+      "value": "已截止"
+    },
+    {
+      "name": "days_remaining",
+      "value": "剩余%d天"
+    },
+    {
+      "name": "days_expired",
+      "value": "已截止"
+    },
+    {
+      "name": "favorite_add",
+      "value": "收藏"
+    },
+    {
+      "name": "favorite_remove",
+      "value": "取消收藏"
+    },
+    {
+      "name": "favorite_tab",
+      "value": "我的收藏"
+    },
+    {
+      "name": "event_list_tab",
+      "value": "事件列表"
+    },
+    {
+      "name": "empty_state_no_events",
+      "value": "暂无事件数据"
+    },
+    {
+      "name": "empty_state_no_results",
+      "value": "未找到匹配的事件"
+    },
+    {
+      "name": "empty_state_no_favorites",
+      "value": "暂无收藏事件"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "refresh",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "retry",
+      "value": "重试"
+    },
+    {
+      "name": "offline_mode",
+      "value": "离线模式"
+    },
+    {
+      "name": "network_error",
+      "value": "网络连接失败"
+    },
+    {
+      "name": "detail_organizer",
+      "value": "主办方"
+    },
+    {
+      "name": "detail_deadline",
+      "value": "截止日期"
+    },
+    {
+      "name": "detail_website",
+      "value": "官方网站"
+    },
+    {
+      "name": "detail_tags",
+      "value": "标签"
+    },
+    {
+      "name": "share_title",
+      "value": "分享事件"
+    },
+    {
+      "name": "open_link",
+      "value": "打开链接"
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "forms": [
+    {
+      "name": "EventCard2x2",
+      "displayName": "开源事件卡片",
+      "description": "显示即将到来的开源事件",
+      "src": "./ets/formability/EventFormAbility.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 5,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2"]
+    },
+    {
+      "name": "EventCard2x4",
+      "displayName": "开源事件卡片（宽）",
+      "description": "显示即将到来的开源事件（宽卡片）",
+      "src": "./ets/formability/EventFormAbility.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 5,
+      "defaultDimension": "2*4",
+      "supportDimensions": ["2*4"]
+    }
+  ]
+}
