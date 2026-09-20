@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "club.openatom.oseddl",
+    "bundleName": "com.example.oseddl",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.0",
